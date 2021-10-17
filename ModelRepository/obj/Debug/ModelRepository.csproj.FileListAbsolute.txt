@@ -1,0 +1,14 @@
+C:\Users\Piistech\source\repos\TestAppVantarus\ModelRepository\bin\Debug\ModelRepository.dll.config
+C:\Users\Piistech\source\repos\TestAppVantarus\ModelRepository\bin\Debug\ModelRepository.dll
+C:\Users\Piistech\source\repos\TestAppVantarus\ModelRepository\bin\Debug\ModelRepository.pdb
+C:\Users\Piistech\source\repos\TestAppVantarus\ModelRepository\bin\Debug\EntityFramework.dll
+C:\Users\Piistech\source\repos\TestAppVantarus\ModelRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Piistech\source\repos\TestAppVantarus\ModelRepository\bin\Debug\ModelEntity.dll
+C:\Users\Piistech\source\repos\TestAppVantarus\ModelRepository\bin\Debug\ModelEntity.pdb
+C:\Users\Piistech\source\repos\TestAppVantarus\ModelRepository\bin\Debug\EntityFramework.xml
+C:\Users\Piistech\source\repos\TestAppVantarus\ModelRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Piistech\source\repos\TestAppVantarus\ModelRepository\obj\Debug\ModelRepository.csproj.AssemblyReference.cache
+C:\Users\Piistech\source\repos\TestAppVantarus\ModelRepository\obj\Debug\ModelRepository.csproj.CoreCompileInputs.cache
+C:\Users\Piistech\source\repos\TestAppVantarus\ModelRepository\obj\Debug\ModelRepository.csproj.CopyComplete
+C:\Users\Piistech\source\repos\TestAppVantarus\ModelRepository\obj\Debug\ModelRepository.dll
+C:\Users\Piistech\source\repos\TestAppVantarus\ModelRepository\obj\Debug\ModelRepository.pdb
